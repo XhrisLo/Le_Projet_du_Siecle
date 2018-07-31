@@ -4,8 +4,3 @@ Mon objectif est d'apprendre à programmer en java et sur les conseils d'opencla
 
 Bonne lecture
 
-Pour être honnête, il n'y a aucune chance que je réalise le projet du Siècle, mais seulemant m'amuser à apprendre à programmer.
-
-Mon objectif est d'apprendre à programmer en java et sur les conseils d'openclass je m'initie à Git
-
-Bonne lecture
