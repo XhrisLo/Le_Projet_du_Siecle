@@ -1,7 +1,8 @@
 J'aurais bien écrit quelques lignes de codes du style
 
-For i = 1 to 1000
-	write ("Thanks OpenClass")
-next i
 
-Mais je ne suis pas sûr que cela soit bien pris par le compilateur... 
+	Repeat
+		write ("Thanks OpenClass")
+	Until "J'obtiens mon certificat" = True
+
+Mais je ne suis pas sûr que cela soit mieux pris par le compilateur... 
